@@ -1,4 +1,4 @@
-# Stridon
+# Introducing Stridon
 Stridon brings together journalists who want to publish articles and readers who want to read them. Think _decentralized Medium._
 # Purpose
 - Be a proof of concept for a new journalism model made possible by NuCypher's _unconditional privacy_
