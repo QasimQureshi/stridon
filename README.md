@@ -17,7 +17,7 @@ NuCypher love Python. For that reason we've used the ever popular Django framewo
 This proof of concept intends to demonstrate that Alison can have confidence that neither Stridon or any 3rd party can alter her articles, and that if she wished she could control her own keys but has the option to trust Stridon.
 
 Within NuCypher we have two policies. Paid and Free. When joining Stridon all users will be placed in the Free policy. When a user becomes a Paid member they will be given access to the additional Paid policy.
-# Installing the demo
+## Installing the demo
 #### STEP 1 - Clone the project
 Clone the project to your project area
 
