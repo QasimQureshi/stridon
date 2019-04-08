@@ -1,8 +1,8 @@
 # Stridon
 Stridon brings together journalists who want to publish articles and readers who want to read them. Think _decentralized Medium._
 # Purpose
-- Be a proof of concept for a new journalism model made possible by NuCypher
-- Serve as an example of how Djanjo can be used to build with NuCypher
+- Be a proof of concept for a new journalism model made possible by NuCypher's _unconditional privacy_
+- Serve as an example of how Django can be used to build with NuCypher
 # System Overview
 Alison is a journalist and likes Stridon's vision for a more equitable journalism model so she joins Stridon’s news service. Stridon can distribute news articles that Alison publishes in encrypted form. Alison wants her news articles to reach users (readers) of Stridon… by joining the Stridon service Alison has created a policy public key (thanks to NuCypher!) so Stridon users (readers) can have access to her encrypted news articles.
 
