@@ -14,6 +14,6 @@ Stridon has been designed to enable the same monetisation as Medium. So Alison c
 # Current Design
 NuCypher love Python. For that reason we've used the ever popular Django framework to bring the power of NuCypher to a web app.
 
-This proof of concept intends to demonstrate that Alison can have confidence that neither Stridon or any 3rd party can alter her articles, and that if she wished she should could control her own keys but has the option to trust Stridon.
+This proof of concept intends to demonstrate that Alison can have confidence that neither Stridon or any 3rd party can alter her articles, and that if she wished she could control her own keys but has the option to trust Stridon.
 
 Within NuCypher we have two policies. Paid and Free. When joining Stridon all users will be placed in the Free policy. When a user becomes a Paid member they will be given access to the additional Paid policy.
