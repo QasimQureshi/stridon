@@ -26,6 +26,7 @@ C:\PythonProjectst> cd Stridon-Test
 
 STEP 2 - Build and Run the Application
 Open an Anaconda Prompt and go to a virtual environment where you have NuCypher and Django available.
+
 (screenshots to follow)
 
 # Limitations
