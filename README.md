@@ -22,4 +22,4 @@ Within NuCypher we have two policies. Paid and Free. When joining Stridon all us
 # Limitations
 Due to time limitations certain comprimises have been made, for example we are yet to add user friendly features such as the ability to edit news articles.
 # Future Development
-We'd like to split the system into different applications. For example Desktop Apps for writing / publishing and Mobile Apps for reading.
+We'd like to split the system into separate applications. For example Desktop Apps for writing / publishing and Mobile Apps for reading.
