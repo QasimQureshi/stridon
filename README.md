@@ -22,6 +22,7 @@ STEP 1 - Clone the project
 Clone the project to your project area
 
 C:\PythonProjects>git clone https://github.com/SagarKishore-PFM/Stridon-Test.git
+
 C:\PythonProjectst> cd Stridon-Test
 
 STEP 2 - Build and Run the Application
