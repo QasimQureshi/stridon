@@ -1,5 +1,5 @@
 # Stridon
-Stridon brings together journalists who want to publish articles and readers who want to read them. _Think decentralized Medium.
+Stridon brings together journalists who want to publish articles and readers who want to read them. _Think decentralized Medium._
 # System Overview
 Alison is a journalist and likes Stridon's vision for a more equitable journalism model so she joins Stridon’s news service. Stridon can distribute news articles that Alison publishes in encrypted form. Alison wants her news articles to reach users (readers) of Stridon… by joining the Stridon service Alison has created a policy public key (thanks to NuCypher!) so Stridon users (readers) can have access to her encrypted news articles.
 
