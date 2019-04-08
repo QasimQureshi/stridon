@@ -18,14 +18,14 @@ This proof of concept intends to demonstrate that Alison can have confidence tha
 
 Within NuCypher we have two policies. Paid and Free. When joining Stridon all users will be placed in the Free policy. When a user becomes a Paid member they will be given access to the additional Paid policy.
 # Installing the demo
-STEP 1 - Clone the project
+### STEP 1 - Clone the project
 Clone the project to your project area
 
 C:\PythonProjects>git clone https://github.com/SagarKishore-PFM/Stridon-Test.git
 
 C:\PythonProjectst> cd Stridon-Test
 
-STEP 2 - Build and Run the Application
+### STEP 2 - Build and Run the Application
 Open an Anaconda Prompt and go to a virtual environment where you have NuCypher and Django available.
 
 (screenshots to follow)
