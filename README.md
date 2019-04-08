@@ -10,7 +10,7 @@ Stridon uses this policy public key to encrypt the news article data that Alison
 
 Alison wants her articles distributed to the users of Stridon. Stridon manages the users (readers) public keys and creates a policy (within the NuCypher network) on Alison’s behalf which grants users access to her articles. Stridon users can read the encrypted news articles by using their private keys to request a re-encrypted ciphertext for each news article.
 
-Stridon has been designed to enable the same monetisation as Medium. So Alison can chose to allow her article to be available to all of the Stridon user base or only to those who have signed up for a paid membership.
+Stridon has been designed to enable the same monetisation as Medium. So Alison can chose to allow her article to be available to the entire Stridon user base or only to those who have signed up for a paid membership.
 # Current Design
 NuCypher love Python. For that reason we've used the ever popular Django framework to bring the power of NuCypher to a web app.
 
